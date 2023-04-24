@@ -1,1 +1,1 @@
-Modificacion de fichero desde repositorio
+Modificacion de fichero desde repositorio remoto
